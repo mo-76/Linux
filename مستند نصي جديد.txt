@@ -1,0 +1,64 @@
+username@machinename: currentworkdic. $ or # 
+$ => normal user
+# => root user
+
+case senstive
+
+date => current data
+cal => calender 
+
+clear => delete the window commands 
+
+arrow up, arrow down => history of command 
+arrow left, arrow riight: fouse
+dont use ctrl + c and ctrl + v
+
+fd => disk free 
+free => free in momery
+
+~ => shortcut of home = /home 
+when run termail, you in home 
+
+ls => list of content dic.
+
+add command option to appear more details
+command -option -argument
+short option - => one char
+long option -- => more char
+
+-l => drwxr => dic. , - => files
+-a => appear all files until hidden, if name begin . => hidden file or dic.
+-t => 
+man ls => explain option in ls, q => to exit from list
+-r =>
+
+tab => to complete command 
+
+list content more than and put between them space 
+ls ~ ./disktop 
+
+mkdir => make dic.
+pwd => veiw current dic.
+
+cd => change dic.
+
+cd / => root
+cd or cd ~ => return home
+
+
+xdg-open file-name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
